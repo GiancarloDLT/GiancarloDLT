@@ -12,7 +12,7 @@
 
 - <b>Getting Started With Linux</b>
   - [File And Directory Manipulation](https://github.com/GiancarloDLT/File-And-Directory-Manipulation)
-- <b>Scripting With HTML (HyperText Markup Language)</b>
+- <b>Markup With HTML (HyperText Markup Language)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Digital Forencis</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
