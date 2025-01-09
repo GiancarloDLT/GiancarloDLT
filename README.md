@@ -1,6 +1,6 @@
 <h1>Hi, I'm Giancarlo!</h1>
 
-<h2>Certifications</h2>
+<h2>Certifications:</h2>
 
 - [CompTIA Network+](https://www.credly.com/badges/9a0bf1bc-497e-4d57-9bf5-6c96a655b0db/public_url)
   - Issued (December 10, 2024)
