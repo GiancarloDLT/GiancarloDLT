@@ -11,7 +11,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Getting Started With Linux</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [File And Directory Manipulation](https://github.com/GiancarloDLT/File-And-Directory-Manipulation)
 - <b>Scripting With HTML (HyperText Markup Language)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Digital Forencis</b>
