@@ -3,6 +3,10 @@
 <h2>Certifications</h2>
 
 - [CompTIA Network+](https://www.credly.com/badges/9a0bf1bc-497e-4d57-9bf5-6c96a655b0db/public_url)
+  - Issued (December 10, 2024)
+  - Expires (December 10, 2025)
+- CompTIA Security+
+  - Expected (May-2025)
 
 <h2>👨‍💻 Projects:</h2>
 
