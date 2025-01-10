@@ -15,7 +15,7 @@
 - <b>Exploring Tags And Formatting With HTML (HyperText Markup Language)</b>
   - [Markup With HTML](https://github.com/GiancarloDLT/Markup-With-HTML)
 - <b>Digital Forencis</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Exploring The Bytes: A Journey Into File Signatures](https://github.com/GiancarloDLT/Exploring-the-Bytes-A-Journey-into-File-Signatures) <b><i>(Potentially NSFW)</b></i>
 - <b>Artificial Intelligence / Machine Learning</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Miscellaneous Python Programs</b>
