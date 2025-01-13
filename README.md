@@ -14,6 +14,8 @@
   - [File And Directory Manipulation](https://github.com/GiancarloDLT/File-And-Directory-Manipulation)
 - <b>Exploring Tags And Formatting With HTML (HyperText Markup Language)</b>
   - [Markup With HTML](https://github.com/GiancarloDLT/Markup-With-HTML)
+- <b>Networking</b>
+  - [Exploring The OSI Model Through Wireshark](https://github.com/GiancarloDLT/Exploring-the-OSI-Model-Through-Wireshark)
 - <b>Digital Forencis</b>
   - [Digital Imaging With dd: USB Backup And Restoration](https://github.com/GiancarloDLT/Digital-Imaging-with-dd-USB-Backup-and-Restoration)
   - [Exploring The Bytes: A Journey Into File Signatures](https://github.com/GiancarloDLT/Exploring-the-Bytes-A-Journey-into-File-Signatures) 
