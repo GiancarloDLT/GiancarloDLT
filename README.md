@@ -21,9 +21,9 @@
   - [Digital Imaging With dd: USB Backup And Restoration](https://github.com/GiancarloDLT/Digital-Imaging-with-dd-USB-Backup-and-Restoration)
   - [Exploring The Bytes: A Journey Into File Signatures](https://github.com/GiancarloDLT/Exploring-the-Bytes-A-Journey-into-File-Signatures) 
 - <b>Artificial Intelligence / Machine Learning</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Encrypter)]()
 - <b>Miscellaneous Python Programs</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
 
 
 <h2> 🤳 Connect with me:</h2>
