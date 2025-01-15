@@ -10,6 +10,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+
 - <b>Getting Started With Linux</b>
   - [File And Directory Manipulation](https://github.com/GiancarloDLT/File-And-Directory-Manipulation)
 - <b>Exploring Tags And Formatting With HTML (HyperText Markup Language)</b>
@@ -17,6 +18,7 @@
 - <b>Networking</b>
   - [Exploring The OSI Model Through Wireshark](https://github.com/GiancarloDLT/Exploring-the-OSI-Model-Through-Wireshark)
   - [Basic Cisco Network Setup and Configuration](https://github.com/GiancarloDLT/Basic-Cisco-Network-Setup-and-Configuration)
+  - [Network Segmentation Basics VLANs And Inter VLAN Communication](https://github.com/GiancarloDLT/Network-Segmentation-Basics-VLANs-and-Inter-VLAN-Communication)
 - <b>Digital Forencis</b>
   - [Digital Imaging With dd: USB Backup And Restoration](https://github.com/GiancarloDLT/Digital-Imaging-with-dd-USB-Backup-and-Restoration)
   - [Exploring The Bytes: A Journey Into File Signatures](https://github.com/GiancarloDLT/Exploring-the-Bytes-A-Journey-into-File-Signatures) 
