@@ -1,8 +1,6 @@
 <h1>Hi, I'm Giancarlo!</h1>
 I’m a cybersecurity student at the University of Texas Rio Grande Valley with a strong passion for technology, problem-solving, and continuous learning. My studies have led me to explore a wide range of topics, from dissecting file systems and analyzing digital evidence to building machine learning models and working with cloud technologies.
-
 Along the way, I’ve developed a solid foundation in computer science, mastering Linux commands, networking, and cryptography while applying these skills to hands-on projects. From investigating file signatures to developing practical tools, I enjoy taking on challenges that push me to think critically and creatively.
-
 My passion for learning is what inspired me to create this GitHub repository—to share what I’ve learned with others for free. I believe knowledge should be accessible, and I hope this collection of projects helps others who are just as eager to explore cybersecurity and technology.
 
 <h2>Certifications:</h2>
