@@ -30,22 +30,9 @@ My passion for learning is what inspired me to create this GitHub repository—t
   - [Digital Imaging With dd: USB Backup And Restoration](https://github.com/GiancarloDLT/Digital-Imaging-with-dd-USB-Backup-and-Restoration)
   - [Exploring The Bytes: A Journey Into File Signatures](https://github.com/GiancarloDLT/Exploring-the-Bytes-A-Journey-into-File-Signatures) 
 - <b>Artificial Intelligence / Machine Learning</b>
-  - [Ransomware Proof of Concept (Encrypter)]()
+  - 
 - <b>Miscellaneous Python Programs</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+  - 
 
 <!--
 **GiancarloDLT/GiancarloDLT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
